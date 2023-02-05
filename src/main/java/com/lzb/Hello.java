@@ -10,5 +10,6 @@ public class Hello {
     System.out.println("第三次推送");
     System.out.println("第一次拉取");
     System.out.println("第四次推送");
+    System.out.println("推送到gitHub上");
   }
 }
