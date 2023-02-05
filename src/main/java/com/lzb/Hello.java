@@ -8,5 +8,6 @@ public class Hello {
     System.out.println("推送");
     System.out.println("第二次推送");
     System.out.println("第三次推送");
+    System.out.println("第一次拉取");
   }
 }
