@@ -6,5 +6,6 @@ public class Hello {
     System.out.println("WWW");
     System.out.println("com");
     System.out.println("推送");
+    System.out.println("第二次推送");
   }
 }
