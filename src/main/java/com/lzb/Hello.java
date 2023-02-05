@@ -5,5 +5,6 @@ public class Hello {
     System.out.println("Hello Word");
     System.out.println("WWW");
     System.out.println("com");
+    System.out.println("推送");
   }
 }
